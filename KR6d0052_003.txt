@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:39.808135
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:10
 #+TITLE: 觀音經玄義記會本
 #+PROPERTY: CBETA_ID X35n0642
 #+PROPERTY: ID KR6d0052
